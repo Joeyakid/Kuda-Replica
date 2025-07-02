@@ -13,4 +13,12 @@
 body {
   margin: 0;
 }
+input{
+  border: 1px solid lightgray;
+  margin: 10px 0;
+}
+textarea{
+  margin: 10px 0;
+  border: 1px solid lightgray
+}
 

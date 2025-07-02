@@ -45,6 +45,11 @@ const Header = () => {
                 </nav>
                 </Link>
                 </main>
+                <main>
+                <Link to="/contact">
+                    <nav>Contact</nav>
+                    </Link>
+                </main>
             </section>
             <section className='flex gap-7'>
                 <Button title="Sign in" textcolor="purple" />
